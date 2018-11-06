@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_216497_globant_h.intents_user" name="x_216497_globant_h.intents_user">1181c281db202300da3d64d74896198c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-13 03:07:21</sys_created_on>
+        <sys_id>1581c281db202300da3d64d74896198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1181c281db202300da3d64d74896198c</sys_name>
+        <sys_package display_value="Globant HelpDesk" source="x_216497_globant_h">d5a0ca01db202300da3d64d7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Globant HelpDesk">d5a0ca01db202300da3d64d7489619d1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1581c281db202300da3d64d74896198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-13 03:07:21</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

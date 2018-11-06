@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-13 03:07:21</sys_created_on>
+        <sys_id>ed810a81db202300da3d64d748961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_216497_globant_h_intents.x_216497_globant_h.intents_user</sys_name>
+        <sys_package display_value="Globant HelpDesk" source="x_216497_globant_h">d5a0ca01db202300da3d64d7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Globant HelpDesk">d5a0ca01db202300da3d64d7489619d1</sys_scope>
+        <sys_security_acl display_value="x_216497_globant_h_intents">a5810a81db202300da3d64d748961932</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ed810a81db202300da3d64d748961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-13 03:07:21</sys_updated_on>
+        <sys_user_role display_value="x_216497_globant_h.intents_user" name="x_216497_globant_h.intents_user">1181c281db202300da3d64d74896198c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
